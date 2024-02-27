@@ -1,3 +1,5 @@
+![desktop-wallpaper-data-analyst](https://github.com/edsanzd/edsanzd/assets/156356409/0b17019d-48b3-4c44-81d8-5838cf90ffd7)
+
 - 👋 Hi, I’m @edsanzd
 - 👀 I’m interested to uncover meaningful insights hidden within the data,
 - delving deeper into its patterns to reveal valuable revelations
