@@ -7,6 +7,7 @@
 - 📫 How to reach me:
 -  geredduran77@gmail.com
 -  https://www.linkedin.com/in/eduardo-sanchez-data/
+-  https://public.tableau.com/app/profile/eduardo.sanchez.duran/vizzes
   
 <!---
 edsanzd/edsanzd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
