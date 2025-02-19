@@ -21,7 +21,7 @@ I am constantly learning, experimenting, and **collaborating on open-source proj
 🔹 Integrated **DVC, MLflow, FastAPI, and Docker** to streamline model lifecycle management.  
 🔹 Built a **real-time monitoring system** with **Prometheus & Grafana** for system observability.  
 
-🔗 **[GitHub Repository](#)**  
+🔗 **[[GitHub Repository]](https://github.com/edsanzd/OCR_Handwritting_MLOps)(#)**  
 
 ### 🔥 **LONDON FIRE BRIGADE RESPONSE TIME ANALYSIS**  
 🔹 Analyzed **multi-source data (incidents, demographics, traffic, weather)** to predict **emergency response times**.  
