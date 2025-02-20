@@ -52,7 +52,7 @@ I am constantly learning, experimenting, and **collaborating on open-source proj
 🚀 **Docker, MLflow, DVC, FastAPI, CI/CD Pipelines (GitHub Actions), Cloud Monitoring (Prometheus & Grafana)**  
 
 ### **VISUALIZATION & ANALYTICS**  
-📈 **Tableau, Matplotlib, Seaborn, Power BI**  
+📈 **Tableau, Matplotlib, Seaborn**  
 
 ---
 
@@ -71,8 +71,8 @@ Some of my current areas of focus:
 
 📧 **Email**: eduardosanchezdata@gmail.com  
 💼 **LinkedIn**: [Eduardo Sanchez Duran](https://www.linkedin.com/in/eduardo-sanchez-data)  
-📊 **Tableau Public**: (https://public.tableau.com/app/profile/eduardo.sanchez.duran/vizzes) 
-📂 **Portfolio & Blog**: [Coming soon]  
+📊 **Tableau Public**: (https://public.tableau.com/app/profile/eduardo.sanchez.duran/vizzes)  
+📂 **Portfolio & Blog**: (https://github.com/edsanzd/edsanzd/blob/5d2e18ddf1df8bcf4866a0cee3e0ff6b513f815c/Portfolio.Eduardo_Sanchezduran.pdf)  
 
 ---
 
